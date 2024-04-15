@@ -1,4 +1,4 @@
 #  Otsimo 2024 Game Dev Internship Task
 
-This task is created by applicant utkay@otsimo.com
+This is my implementation of the task I received at utkay@otsimo.com
 
